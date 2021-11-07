@@ -5,7 +5,7 @@ from discord import FFmpegPCMAudio, channel, guild
 from youtube_dl import YoutubeDL
 from discord.utils import get
 
-TOKEN = "OTAwMDgxMjcwNjQ0Njc0NjAx.YW8IAQ.c7dHcCGvRe1_poHQjRqk6wbNROw"
+TOKEN = "OTAwMDgxMjcwNjQ0Njc0NjAx.YW8IAQ.c7dHcCGvRe1_poHQjRqk6wbKESaw"
 
 robot = commands.Bot(command_prefix="//")
 
